@@ -89,15 +89,24 @@ footer {
 
 }
 
-p.game  {
+.game p {
     color: green;
 }
+
+
 img {
 height: 300px;
 width: 300px;
 object-fit: contain;
 
 }
+
+
+.girls, img {
+  Width: 700px;
+  height: 700px;
+  }
+
 
 ul,
 ol {
