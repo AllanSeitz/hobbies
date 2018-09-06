@@ -52,7 +52,11 @@ text-align: center;
 }
 
 
-
+p#more {
+   color: aquamarine;
+   background-color: black;
+   border: solid purple 3px
+}
 
 
 
@@ -85,7 +89,7 @@ footer {
 
 }
 
-.game p {
+p.game  {
     color: green;
 }
 img {
@@ -98,6 +102,7 @@ object-fit: contain;
 ul,
 ol {
   list-style: none;
+  font-size: 20px;
 }
 
 .hobbies-list {
