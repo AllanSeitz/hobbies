@@ -6,77 +6,57 @@ body {
   margin: 0;
   min-height: 100%;
   font: 20px / 1 sans-serif;
-
 }
 
-header#Hobbies {
+.head {
+  font-size: 50px;
   padding: 3em;
   text-align: center;
-  border: 5px red;
-  border-style: dashed solid 
-
-
-
-
-
-
+  border: 15px red;
+  border-style: dashed solid;
 }
 
 p#blacksmith {
-color: blue;
-
-
+  color: blue;
 }
 
 p {
   color: red;
   margin: 2em;
-  Border: 5px solid gold;
-
-
+  border: 5px solid gold;
 }
 
 h1 {
-  color:blue;
+  color: blue;
   margin: 3em;
-  Border: 3px solid orange;
+  border: 3px solid orange;
   text-align: center;
 }
 
 h2 {
-  color:green;
+  color: green;
   margin: 0;
-text-align: center;
-
-
+  text-align: center;
 }
-
 
 p#more {
-   color: aquamarine;
-   background-color: black;
-   border: solid purple 3px
+  color: aquamarine;
+  background-color: black;
+  border: solid purple 3px;
 }
-
-
-
-
 
 img {
   display: block;
   margin: 0 auto;
-
 }
 
 footer {
   text-align: left;
-  background-color: #10101099; 
+  background-color: #10101099;
   margin: 0;
-
 }
 
 .smith {
-
   border: solid yellow 30px;
 }
 
@@ -86,27 +66,22 @@ footer {
   color: green;
   border-style: inset;
   border: 3px solid maroon;
-
 }
 
 .game p {
-    color: green;
+  color: green;
 }
-
 
 img {
-height: 300px;
-width: 300px;
-object-fit: contain;
-
+  height: 300px;
+  width: 300px;
+  object-fit: contain;
 }
 
-
-.girls, img {
-  Width: 700px;
+.girls img {
+  width: 700px;
   height: 700px;
-  }
-
+}
 
 ul,
 ol {
@@ -115,22 +90,6 @@ ol {
 }
 
 .hobbies-list {
-margin: 1em;
-border: 3px solid yellow;
-
-
+  margin: 1em;
+  border: 3px solid yellow;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
